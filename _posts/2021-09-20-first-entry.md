@@ -34,3 +34,5 @@ As Mark Twain once said,
 > I didn't have time to write you a short letter, so I wrote you a long one.
 
 Enjoy your stay.
+
+Oh, and I'm partially driven by this discussion and article about blogging on HN. Take a look. It's interesting to read about the blogging culture in past times. https://news.ycombinator.com/item?id=28591880.
